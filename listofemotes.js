@@ -10,3 +10,4 @@ AddNewCostumeEmote("emerald", "png");
 AddNewCostumeEmote("image", "png");
 AddNewCostumeEmote("Bits", "gif");
 AddNewCostumeEmote("Bits1000", "gif");
+alert("test")
