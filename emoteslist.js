@@ -18,3 +18,4 @@ AddNewCostumeEmote("Spoopydance", "gif");
 AddNewCostumeEmote("Bfdab", "gif");
 AddNewCostumeEmote("Bfdab", "png");
 AddNewCostumeEmote("Cowdance", "gif");
+AddNewCostumeEmote("Rickcubed", "gif");
