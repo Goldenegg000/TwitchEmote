@@ -8,6 +8,6 @@ just a lib for images and data for the twitch emotes extension:
 
 things to add:
 - *lic* NOICE
-- Spoopydance
+- ~~Spoopydance~~
 - Bfdab
 - Henchmen (idk why)
