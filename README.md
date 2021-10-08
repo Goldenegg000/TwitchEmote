@@ -9,5 +9,5 @@ just a lib for images and data for the twitch emotes extension:
 things to add:
 - *lic* NOICE
 - ~~Spoopydance~~
-- Bfdab
+- ~~Bfdab~~
 - Henchmen (idk why)
