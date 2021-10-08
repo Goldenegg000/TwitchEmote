@@ -11,3 +11,4 @@ things to add:
 - ~~Spoopydance~~
 - ~~Bfdab~~
 - Henchmen (idk why)
+- ~~RickBlocked~~
