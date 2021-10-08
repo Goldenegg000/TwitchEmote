@@ -14,3 +14,6 @@ AddNewCostumeEmote("Bits100", "gif");
 AddNewCostumeEmote("Bits1000", "gif");
 AddNewCostumeEmote("Bits5000", "gif");
 AddNewCostumeEmote("Bits10000", "gif");
+AddNewCostumeEmote("Spoopydance", "gif");
+AddNewCostumeEmote("Bfdab", "gif");
+AddNewCostumeEmote("Bfdab", "png");
