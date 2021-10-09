@@ -20,3 +20,4 @@ AddNewCostumeEmote("Bfdab", "png");
 AddNewCostumeEmote("Cowdance", "gif");
 AddNewCostumeEmote("Rickcubed", "gif");
 AddNewCostumeEmote("Lol", "png");
+AddNewCostumeEmote("Huhcat", "png");
