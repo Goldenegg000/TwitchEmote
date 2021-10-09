@@ -22,5 +22,6 @@ AddNewCostumeEmote("Rickcubed", "gif");
 AddNewCostumeEmote("Lol", "png");
 AddNewCostumeEmote("Huhcat", "png");
 AddNewCostumeEmote("Top1", "png");
+AddNewCostumeEmote("Hot", "png");
 console.log("finished loading emotes");
 
