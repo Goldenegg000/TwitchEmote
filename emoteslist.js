@@ -23,5 +23,6 @@ AddNewCostumeEmote("Lol", "png");
 AddNewCostumeEmote("Huhcat", "png");
 AddNewCostumeEmote("Top1", "png");
 AddNewCostumeEmote("Hot", "png");
+AddNewCostumeEmote("Pepederp", "png");
 console.log("finished loading emotes");
 
