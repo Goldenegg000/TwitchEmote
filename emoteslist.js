@@ -27,4 +27,5 @@ AddNewCostumeEmote("Pepederp", "png", "from google");
 AddNewCostumeEmote("Oldsmile", "png", "from google");
 AddNewCostumeEmote("idc", "gif", "from google");
 AddNewCostumeEmote("ThumbSmile", "png", "from Omen");
+AddNewCostumeEmote("Sheriffsmile", "png", "from Omen");
 console.log("finished loading emotes");
