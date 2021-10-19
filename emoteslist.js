@@ -25,4 +25,5 @@ AddNewCostumeEmote("Top1", "png", "from google");
 AddNewCostumeEmote("Hot", "png", "MABY from chi_coded_dragon, JUST MABY");
 AddNewCostumeEmote("Pepederp", "png", "from google");
 AddNewCostumeEmote("Oldsmile", "png", "from google");
+AddNewCostumeEmote("idc", "gif", "from google");
 console.log("finished loading emotes");
