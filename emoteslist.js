@@ -30,4 +30,5 @@ AddNewCostumeEmote("ThumbSmile", "png", "from Omen");
 AddNewCostumeEmote("Sheriffsmile", "png", "from Omen");
 AddNewCostumeEmote("Noice", "gif", "from google");
 AddNewCostumeEmote("Mattspam", "gif", "from google");
+AddNewCostumeEmote("Johncenasus", "gif", "from google");
 console.log("finished loading emotes");
