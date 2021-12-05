@@ -28,4 +28,6 @@ AddNewCostumeEmote("Oldsmile", "png", "from google");
 AddNewCostumeEmote("idc", "gif", "from google");
 AddNewCostumeEmote("ThumbSmile", "png", "from Omen");
 AddNewCostumeEmote("Sheriffsmile", "png", "from Omen");
+AddNewCostumeEmote("Noice", "gif", "from google");
+AddNewCostumeEmote("Mattspam", "gif", "from google");
 console.log("finished loading emotes");
