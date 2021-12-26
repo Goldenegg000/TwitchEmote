@@ -1,0 +1,169 @@
+body {
+    background-color: #252830;
+    margin: 0px;
+    padding: 8px;
+}
+.white, .whitesingle {
+    color: white;
+}
+.white * {
+    color: white;
+}
+html {
+    /* background-image: url(background.jpg); */
+    font-family: Arial;
+}
+body * {
+    animation: mainanimation 1s ease-in-out;
+}
+
+button, input, select {
+    background-color: #1A1C22;
+    border-radius: 4px;
+    border-width: 1px;
+    font-weight: bold;
+    border-color: gray;
+    margin: 5px;
+}
+
+button {
+    transition: 0.5s;
+    cursor: pointer;
+}
+button:hover {
+    transition: 0.5s;
+    transform: translateY(-5px);
+}
+
+/*Chrome*/
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    input[type='range'] {
+        overflow: hidden;
+        width: 80px;
+        -webkit-appearance: none;
+        background-color: #9a905d;
+    }
+    
+    input[type='range']::-webkit-slider-runnable-track {
+        height: 10px;
+        -webkit-appearance: none;
+        color: #13bba4;
+        margin-top: -1px;
+    }
+    
+    input[type='range']::-webkit-slider-thumb {
+        width: 10px;
+        -webkit-appearance: none;
+        height: 10px;
+        cursor: ew-resize;
+        background: #434343;
+        box-shadow: -80px 0 0 80px #43e5f7;
+    }
+    
+}
+/** FF*/
+input[type="range"]::-moz-range-progress {
+    background-color: #43e5f7; 
+}
+input[type="range"]::-moz-range-track {  
+    background-color: #9a905d;
+}
+/* IE*/
+input[type="range"]::-ms-fill-lower {
+    background-color: #43e5f7; 
+}
+input[type="range"]::-ms-fill-upper {  
+    background-color: #9a905d;
+}
+
+input[type=color] {
+    padding: 0px;
+    background-color: gray;
+    box-sizing: initial;
+}
+
+input[type=text]:hover, input[type=text]:focus {
+    color: black;
+}
+
+input[type=checkbox] {
+    width: 25px;
+    height: 25px;
+}
+
+button:hover, input:hover, input:focus {
+    background-color: #1997C6;
+}
+.HomeButton {
+    background-color: #1A1C22;
+    width: 50px;
+    height: 50px;
+}
+
+@keyframes mainanimation {
+    0% {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@font-face {
+    font-family: 'PressStart2P';
+    src: URL('fonts/PressStart2P-Regular.ttf') format('truetype');
+}
+
+.nav {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 24px;
+    text-align: left;
+    padding-left: 20px;
+    background-color: #1A1C22;
+    
+    display: -webkit-flexbox;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    justify-content: left;
+    transition: 0.5s;
+}
+.nav:hover {
+    height: 50px;
+    transition: 1s;
+}
+.nav *:hover {
+    background-color: #2196F3;
+    color: #ffffff;
+    transition: 0.5s;
+}
+.nav * {
+    color: #2196F3;
+    width: max-content;
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 5px;
+    transition: 0.5s;
+    margin-right: 10px;
+    height: 20px;
+
+    display: inline-block;
+    vertical-align: middle;
+    line-height: normal;
+}
+
+.all-copy {
+    -webkit-user-select: all;  /* Chrome all / Safari all */
+    -moz-user-select: all;     /* Firefox all */
+    -ms-user-select: all;      /* IE 10+ */
+    user-select: all;          /* Likely future */   
+}
