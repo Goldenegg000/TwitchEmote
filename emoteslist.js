@@ -32,4 +32,6 @@ AddNewCostumeEmote("Noice", "gif", "from google");
 AddNewCostumeEmote("Mattspam", "gif", "from google");
 AddNewCostumeEmote("Johncenasus", "gif", "from google");
 AddNewCostumeEmote("Gift", "png", "from google");
+AddNewCostumeEmote("rockeyebrow", "png", "from google");
+AddNewCostumeEmote("darock", "png", "from google");
 console.log("finished loading emotes");
