@@ -1,6 +1,7 @@
 AddNewCostumeEmote("BigChamp", "png", "from google");
 AddNewCostumeEmote("Eman", "png", "from google");
 AddNewCostumeEmote("GE", "png", "from Goldenegg000");
+AddNewCostumeEmote("GEM", "gif", "from Goldenegg000");
 AddNewCostumeEmote("CoolPepe", "png", "from google");
 AddNewCostumeEmote("Countdown", "gif", "from google");
 AddNewCostumeEmote("Pepedance", "gif", "from google");
