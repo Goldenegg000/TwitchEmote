@@ -36,4 +36,6 @@ AddNewCostumeEmote("Gift", "png", "from google");
 AddNewCostumeEmote("rockeyebrow", "png", "from google");
 AddNewCostumeEmote("darock", "png", "from google");
 AddNewCostumeEmote("smolbrain", "png", "from google");
+AddNewCostumeEmote("richkappa", "png", "from google");
+AddNewCostumeEmote("kappalife", "png", "from google");
 console.log("finished loading emotes");
